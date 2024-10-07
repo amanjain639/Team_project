@@ -1,5 +1,5 @@
 import pytest
-from Train_linear import train_and_evaluate_RFmodel
+from Train_proejct import train_and_evaluate_RFmodel
 
 def test_RFmodel_accuracy():
     # Call the function to get model evaluation metrics
